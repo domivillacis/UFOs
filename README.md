@@ -1,6 +1,6 @@
 # UFO Sightings
 
-![Alt text](UFO.png)
+<img width="1466" alt="UFO" src="https://user-images.githubusercontent.com/112814924/206966752-7b5d1429-d6ed-486d-b2aa-0bffcf38c30d.png">
 
 ## Overview of the analysis
 
