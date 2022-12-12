@@ -27,7 +27,7 @@ By entering values in each field and with a simple click or enter, our table wil
 
 <img width="1449" alt="resultados" src="https://user-images.githubusercontent.com/112814924/206954871-219d39c5-2884-4811-b976-0d73a0451e55.png">
 
-Navigating our website is very exciting and super easy. Another feature that the page has is that after applying the filters, if we want to see the whole table again, instead of deleting filter by filter, we can simply click on "UFO Sightings" and that will allow our filters to reset.
+Navigating our website is very exciting and super easy. Another feature that the page offers is that after applying the filters, if we want to see the whole table again, instead of deleting filter by filter, we can simply click on "UFO Sightings" and that will allow our filters to reset.
 
 <img width="426" alt="reset filter" src="https://user-images.githubusercontent.com/112814924/206954895-debb2f16-cd19-4f06-b174-3c01447a4284.png">
 
