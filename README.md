@@ -31,7 +31,9 @@ Navigating our website is very exciting and super easy. Another feature that the
 
 To better show how the filters work, we have created an explanatory video
 
-https://user-images.githubusercontent.com/112814924/206954930-f24f80ad-eb85-4ddc-9ef5-55d4adddb005.mov
+https://user-images.githubusercontent.com/112814924/206958991-7029f2bb-2cad-4335-ae0c-1e082f7cfb7c.mov
+
+
 
 ## Summary
 
