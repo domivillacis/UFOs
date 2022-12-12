@@ -31,7 +31,7 @@ Navigating our website is very exciting and super easy. Another feature that the
 
 <img width="426" alt="reset filter" src="https://user-images.githubusercontent.com/112814924/206954895-debb2f16-cd19-4f06-b174-3c01447a4284.png">
 
-To better show how our website works, we have created an explanatory video.
+To better show how our website works, we have created a short explanatory video.
 
 https://user-images.githubusercontent.com/112814924/206958991-7029f2bb-2cad-4335-ae0c-1e082f7cfb7c.mov
 
