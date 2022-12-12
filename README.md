@@ -12,8 +12,6 @@ As we know, JavaScript is a coding language designed to enhance HTML, therefore 
 
 Do you dare to live this extraterrestrial experience? 👽
 
-image
-
 ## Results
 
 To improve the functionality of our page and make it easier to find specific data, we have added multiple filters in addition to the "Enter date" filter:
