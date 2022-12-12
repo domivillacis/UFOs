@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/112814924/206958991-7029f2bb-2cad-4335
 
 We definitely have a dynamic website that is not difficult to navigate, however there are a couple of things I would recommend to make the browsing experience even better.
 
-One drawback of this web page is that all filters are case sensitive and if data is entered with a capital letter or spaces, the filters will return no results. So this is a very important factor to take into account and change it in your code so that the results can be read regardless of case or spaces.
+One drawback of this web page is that all filters are case sensitive and if data is entered with a capital letter or spaces, the filters will return no results. So this is a very important factor to take into account and change it in our code so that the results can be read regardless of case or spaces.
 
 Finally, for further development I recommend:
 
